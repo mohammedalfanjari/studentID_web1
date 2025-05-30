@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TBT NEWS</title>
+</head>
+<body>
+  <h1>TBT NEWS</h1>
+ 
+   <h2>sports section</h2>
+     <h3>football</h3>
+      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Unde quia deleniti animi, nam, fuga aliquam consectetur quasi consequatur blanditiis nemo excepturi magni!</p>
+
+     <h3>Boxing</h3>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni autem vitae repudiandae, excepturi ipsa sit rerum, sed quisquam expedita nisi esse id!</p>
+
+
+
+   <h2>food section</h2>
+    <h3>Famine</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur corporis officia vitae expedita, eveniet illum odit labore quas voluptas facilis ratione adipisci.</p>
+    
+    
+    
+    
+    </body>
+</html>
