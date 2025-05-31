@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>STYLE</title>
+</head>
+<body style="background-color:blueviolet ">
+   <h1 style="color: black" style="font-size: 60px;">I study at the University of Jordan, Aqaba branch</h1>
+   <p style="text-align:left">انا بدرس بالجامعة الأردنية فرع العقبة</p>
+   <p style="background-color: gray" style="color: palegoldenrod">web1</p> 
+</body>
+</html>
