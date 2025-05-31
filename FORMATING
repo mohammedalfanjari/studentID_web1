@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Formating</title>
+</head>
+<body>
+<p>study at the University of Jordan
+  <strong><ins>Aqaba</ins></strong><br> 
+  My specialty is <ins><i>programming</i></ins>I gained a lot of experience in college and I am about to become an expert<ins><em> programmer.</em></ins>
+I finished studying C++ , web1<br>
+<del>
+  c++<br>
+  web1
+</del>
+
+</p>
+p<sup>2</sup><br>
+H<sub>2</sub>o
+
+</body>
+</html>
